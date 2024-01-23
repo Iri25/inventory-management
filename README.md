@@ -1,6 +1,6 @@
 # inventory-management
 
-Python application with a 3-layered architecture: data access layer (Domain.py), business logic layer (Logic.py) and presentation layer (User Interface.py). The data is stored locally (Objects.txt). The planning of functions, scenarios, activities (Iterations.py) and  tests for functionality (Tests.py) was carried out.
+Python application with a 3-layered architecture: data access layer ([Domain.py](https://github.com/Iri25/inventory-management/InventoryManagement/Domain.py), business logic layer (Logic.py) and presentation layer (User Interface.py). The data is stored locally (Objects.txt). The planning of functions, scenarios, activities (Iterations.py) and  tests for functionality (Tests.py) was carried out.
 
 An application for managing an inventory in an institution. The following operations are supported:
 1. Add/delete/modify object: it is done based on the number of inventory/ID. An object contains: ID, name, description (non-null), purchase price, location (4 characters).
