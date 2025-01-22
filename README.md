@@ -1,6 +1,11 @@
 # inventory-management
 
-Python application with a 3-layered architecture: data access layer ([Domain](https://github.com/Iri25/inventory-management/blob/main/InventoryManagement/Domain.py)), business logic layer ([Logic](https://github.com/Iri25/inventory-management/blob/main/InventoryManagement/Logic.py)) and presentation layer ([User Interface](https://github.com/Iri25/inventory-management/blob/main/InventoryManagement/User%20Interface.py)). The data is saved in a txt file ([Objects](https://github.com/Iri25/inventory-management/blob/main/InventoryManagement/Objects.txt)). Several functionalities, scenarios and activities for functionalities ([Iterations](https://github.com/Iri25/inventory-management/blob/main/InventoryManagement/Iterations.py)), but also tests for functionalities ([Tests](https://github.com/Iri25/inventory-management/blob/main/InventoryManagement/Tests.py)) were created. Interaction with the user is done from the console.
+Python application with a 3-layered architecture: 
+- data access layer ([Domain](https://github.com/Iri25/inventory-management/blob/main/InventoryManagement/Domain.py))
+- business logic layer ([Logic](https://github.com/Iri25/inventory-management/blob/main/InventoryManagement/Logic.py))
+- presentation layer ([User Interface](https://github.com/Iri25/inventory-management/blob/main/InventoryManagement/User%20Interface.py)).
+
+The data is saved in a txt file ([Objects](https://github.com/Iri25/inventory-management/blob/main/InventoryManagement/Objects.txt)). Several functionalities, scenarios and activities for functionalities ([Iterations](https://github.com/Iri25/inventory-management/blob/main/InventoryManagement/Iterations.py)), but also tests for functionalities ([Tests](https://github.com/Iri25/inventory-management/blob/main/InventoryManagement/Tests.py)) were created. Interaction with the user is done from the console.
 
 ## Requirements
 
